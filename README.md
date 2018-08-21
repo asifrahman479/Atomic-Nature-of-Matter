@@ -1,1 +1,2 @@
-[embed]https://drive.google.com/drive/folders/15iIWyxbsY4G8Jg_9uwDJx7SxB2CtVXc7.pdf[/embed]
+The purpose of this project is to re-affirm the atomic nature of matter by tracking the motion of particles undergoing
+Brownian motion, fitting this data to Einstein's model, and estimating Avogadro's number.
