@@ -1,0 +1,37 @@
+1. Hours to complete the project: 7 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Particle Identification): I could understand most of the
+       contents from this problem, and as I went to the SI session, I could
+       also do the coding. But I faced a lot of errors, first one was I was
+       adding the self._x and self._P + i instead of multiplying to calculate
+       the distance. On the other hand I got syntex error when I wrote
+       pic.width and pic.height because I didn't include the parenthesis after
+       that.
+
+   Problem 2 (Particle Tracking): I made some little mistakes like syntex
+       errors while writing the writef function, my SI tutor helped me to find
+       the problem, other than that I could do the coding easily.
+
+   Problem 3 (Data Analysis): This was straight forward, the checklist was
+       very helpful.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+ Julianna			SI tutor 		Helped to understand the concepts and 
+                                    problems
+  Anh Huy				Friend			Helped me to figure out the mistake from 
+									the first problem. 
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   Getting the errors and figuring the solution was very fraustrating, but it
+   taught me to be careful about the syntax errors.
